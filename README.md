@@ -1,5 +1,5 @@
 # Psychometric-Cognitive-profile
-https://www.plum.io
+https://www.plum.io/how-it-works
 
 1 to 4 : English
 
